@@ -1,6 +1,6 @@
 Multi-Game-Pygame
 =================
 
-Games I created in Grade 12 for school
+Games I created in Grade 12 for a school project
 
-python, pygame
+python 3.2, pygame
